@@ -1,0 +1,28 @@
+change some thing
+
+change some thing
+change some thing
+  GNU nano 5.8                       test1.txt                        Modified
+change some thing
+
+change some thing
+change some thing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
